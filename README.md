@@ -1,4 +1,4 @@
-# ISIC Skin Care Multiclass Classification
+# ISIC Skin Cancer Multiclass Classification
 
 ## Problem Statement
 In this assignment, you will build a multiclass classification model using a custom convolutional neural network in tensorflow. 
